@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="13"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="179.352">
+  <properties />
+  
+  
+            <testcase name="Mobile" time="6.017" classname="test.Soploginfree" />
+                <testcase name="Emailneg1" time="11.042" classname="test.Soploginfree" />
+                <testcase name="Password" time="6.599" classname="test.Soploginfree" />
+                <testcase name="Bothvalue1" time="16.048" classname="test.Soploginfree" />
+                <testcase name="Email1" time="11.011" classname="test.Soploginfree" />
+                <testcase name="Login1" time="33.528" classname="test.Soploginfree" />
+                <testcase name="Passwordneg1" time="11.886" classname="test.Soploginfree" />
+                <testcase name="Email" time="5.453" classname="test.Soploginfree" />
+                <testcase name="Pw1" time="6.392" classname="test.Soploginfree" />
+                <testcase name="Login" time="41.998" classname="test.Soploginfree" />
+                <testcase name="Emailneg" time="6.333" classname="test.Soploginfree" />
+                <testcase name="Password1" time="6.058" classname="test.Soploginfree" />
+                <testcase name="Bothvalue" time="16.987" classname="test.Soploginfree" />
+      
+</testsuite>

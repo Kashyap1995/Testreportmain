@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="82.132">
+  <properties />
+  
+  
+            <testcase name="Emailneg" time="5.485" classname="test.Sopregifree" />
+                <testcase name="Mobile" time="5.398" classname="test.Sopregifree" />
+                <testcase name="Bothvalue" time="16.917" classname="test.Sopregifree" />
+                <testcase name="Email" time="5.821" classname="test.Sopregifree" />
+                <testcase name="Login" time="41.911" classname="test.Sopregifree" />
+                <testcase name="Password" time="6.600" classname="test.Sopregifree" />
+      
+</testsuite>

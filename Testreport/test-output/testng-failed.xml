@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="test.Soploginfree">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- test.Soploginfree -->
+      <class name="test.Sopregifree">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="Login"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- test.Sopregifree -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
