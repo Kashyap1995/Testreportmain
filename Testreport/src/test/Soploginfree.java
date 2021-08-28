@@ -155,6 +155,7 @@ public class Soploginfree extends Sopregifree{
   
   @AfterTest
   public void afterTest() {
+	  driver.quit();
   }
 
 }
