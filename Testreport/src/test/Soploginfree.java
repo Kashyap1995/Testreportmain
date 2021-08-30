@@ -11,8 +11,6 @@ import org.testng.annotations.AfterTest;
 public class Soploginfree extends Sopregifree{
 	  
 	 
-	
-	
 	 @Test(priority=6)
 	 public void Bothvalue1() throws InterruptedException {
 		 Thread.sleep(5000);
@@ -31,7 +29,6 @@ public class Soploginfree extends Sopregifree{
 			Assert.assertEquals(actual_message1, expect_messaage1); 
   }
   
-	 
 	 
 	 @Test (priority=7)
   public void Email1() throws InterruptedException {
